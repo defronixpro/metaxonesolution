@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **nitesh.like123@gmail.com**
 
-- 📄 Know about my experiences [10 year](10 year)
+- 📄 Know about my experiences [10](10 year)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
