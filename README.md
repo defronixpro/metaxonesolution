@@ -36,5 +36,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=metaxonesolution&show_icons=true&theme=dark&locale=en" alt="metaxonesolution" /></p></br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=metaxonesolution&theme=dark" alt="metaxonesolution" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=metaxonesolution&theme=dark" alt="metaxonesolution" /></p>
 
